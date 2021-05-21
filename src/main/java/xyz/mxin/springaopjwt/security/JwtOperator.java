@@ -22,7 +22,6 @@ import java.util.Map;
 public class JwtOperator {
     /**
      * 秘钥
-     * - 默认aaabbbcccdddeeefffggghhhiiijjjkkklllmmmnnnooopppqqqrrrsssttt
      */
     @Value("${jwt.secret}")
     private String secret;
