@@ -1,0 +1,13 @@
+package xyz.mxin.springaopjwt;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringAopJwtApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(SpringAopJwtApplication.class, args);
+    }
+
+}

@@ -1,0 +1,5 @@
+server:
+  port: 7070
+jwt:
+  secret: sadnaioshduqowghriug98&(^^&%baksbeirbqi234
+  expireTime: 2000
